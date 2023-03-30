@@ -5,10 +5,10 @@ __metadata:
   version: 6
   cacheKey: 8
 
-"babel-plugin-react-live@npm:1.2.1":
-  version: 1.2.1
-  resolution: "babel-plugin-react-live@npm:1.2.1"
-  checksum: 2d3bdc7c3a1c85336803e5344f529ad5ac8f1e1ff80f141db20f7da91dfc272f567ee35270f42e7c49769659d96dab51b37e1b93b41ed2da6fc4850fca679b4c
+"babel-plugin-react-live@npm:1.3.0":
+  version: 1.3.0
+  resolution: "babel-plugin-react-live@npm:1.3.0"
+  checksum: 96cb3dbbf1b152515e57c3ac3c5d5e2250a8dd5d9764071773b9af223508b172b053fee8770a197631365cbc06c2a0ef318a098f947d6386b0da771dc40bb5fd
   languageName: node
   linkType: hard
 
@@ -16,6 +16,6 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "gatsby-plugin-babel-react-live@workspace:."
   dependencies:
-    babel-plugin-react-live: 1.2.1
+    babel-plugin-react-live: 1.3.0
   languageName: unknown
   linkType: soft
