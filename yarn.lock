@@ -91,13 +91,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"babel-plugin-react-live@npm:1.4.4":
-  version: 1.4.4
-  resolution: "babel-plugin-react-live@npm:1.4.4"
+"babel-plugin-react-live@npm:1.4.5":
+  version: 1.4.5
+  resolution: "babel-plugin-react-live@npm:1.4.5"
   dependencies:
     "@babel/generator": 7.21.5
     prettier: 2.8.0
-  checksum: e77678861d72adf963d0878af44184bc52cf815afc8080fab17a63c4d56e4f90420e5d3c868a93e1a1d208a89ae02c663a5989ab5917b38cb6e66fd1710e2ed2
+  checksum: 2e9b13e49fb374a227c1568a6a55cf47ac28202bcdd779d976e41ccaa19c85fa0b65979c933df1219378e0e03ad851154722046489eddaba00669789a3743892
   languageName: node
   linkType: hard
 
@@ -105,7 +105,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "gatsby-plugin-babel-react-live@workspace:."
   dependencies:
-    babel-plugin-react-live: 1.4.4
+    babel-plugin-react-live: 1.4.5
   languageName: unknown
   linkType: soft
 

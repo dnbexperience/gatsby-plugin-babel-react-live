@@ -13,14 +13,14 @@
     "type": "git",
     "url": "https://github.com/dnbexperience/eufemia.git"
   },
-  "version": "1.4.4",
+  "version": "1.4.5",
   "main": "index.js",
   "scripts": {
     "test": "jest",
     "test:watch": "jest --watch"
   },
   "dependencies": {
-    "babel-plugin-react-live": "1.4.4"
+    "babel-plugin-react-live": "1.4.5"
   },
   "peedDependencies": {
     "gatsby": ">=4"
